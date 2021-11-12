@@ -1,1 +1,17 @@
-
+{
+  "title": "hotpotwars",
+  "description": "Epic saga",
+  "artist": "Regginator",
+  "author": "Regginator",
+  "cover": "https://drive.google.com/uc?id=1Ysm0adjbr0QEIIDt8b7VB4aThsiQ8V4e",
+  "chapters": {
+    "1":{
+      "title": "Test",
+      "volume": "1",
+      "groups": {
+        "Hotpotwars Foundation": "/proxy/api/imgur/chapter/S99lFK9/"
+      },
+      "last_updated": "1636602514"
+    }
+  }
+}
